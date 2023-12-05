@@ -1,0 +1,2 @@
+# OS161
+This project focuses on the development and enhancement of an operating system using the OS161 system framework.  Through a series of structured assignments, the project aims to deepen the understanding of critical operating system concepts and their practical implementations using C. The key areas of focus include concurrency, synchronization, virtual memory, system calls, and file systems.
